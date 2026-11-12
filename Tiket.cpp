@@ -54,6 +54,6 @@ int main() {
     cout<<"|   Terimakasih Sudah Memesan Bus Kami     |"<<endl;
     cout<<"|------------------------------------------|"<<endl;
     
-    
+    system("pause");
     return 0;
 }
